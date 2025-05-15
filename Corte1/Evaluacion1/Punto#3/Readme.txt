@@ -1,0 +1,1 @@
+En esta carpeta encontrara 2 archivos python, el archivo con nombre "ClasesMetodos" contendra todos los metodos y clases en la que la calculadora esta diseñada. Luego encontrara el archivo con nombre "Iniciador" en donde encontrara cuando se importa el archivo "ClasesMetodos" y se crea el objeto para llamar el main de la calculadora
